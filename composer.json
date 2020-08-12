@@ -1,6 +1,6 @@
 {
     "name": "semihyilmaz/sm-akakce",
-    "description": "Laravel Akakçe Service Provider",
+    "description": "Laravel Akakçe Entegrasyonu - Sanal Mağaza",
     "type": "laravel",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.0.0",
         "illuminate/support": "~5.0",
         "philo/laravel-blade": "3.*"
     },
